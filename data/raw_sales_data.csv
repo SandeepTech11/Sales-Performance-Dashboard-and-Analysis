@@ -1,0 +1,123 @@
+OrderID,OrderDate,CustomerID,CustomerName,City,Region,ProductID,ProductName,Category,UnitPrice,Quantity,Discount
+ORD00001,2025-01-10,CUST001,TechCorp Solutions,New York,East,PROD001,Enterprise Laptop,Electronics,1200.0,2,0.05
+ORD00002,2025-01-12,CUST002,Apex Global,Los Angeles,West,PROD003,Ultra Tablet,Electronics,450.0,1,0.0
+ORD00003,2025-01-15,CUST003,Quantum Systems,Chicago,Midwest,PROD004,Ergonomic Office Chair,Furniture,350.0,3,
+ORD00004,2025-01-18,CUST004,Summit Enterprise,Houston,South,PROD002,Pro Smartphone,electronics,850.0,1,0.1
+ORD00005,01/20/2025,CUST005,Nova Industries,Phoenix,West,PROD005,Standing Desk,Furniture,650.0,2,0.15
+ORD00006,2025-01-22,CUST006,Vanguard Labs,Philadelphia,East,PROD006,Noise-Cancelling Headphones,Accessories,200.0,4,0.0
+ORD00007,2025-01-25,CUST007,Horizon Retail,San Antonio,South,PROD007,Mechanical Keyboard,Accessories,120.0,5,0.2
+ORD00008,2025-01-28,CUST008,Infinity Partners,San Diego,West,PROD008,4K UltraHD Monitor,Electronics,400.0,1,0.05
+ORD00009,2025-02-01,CUST009,Pinnacle Group,Dallas,South,PROD009,Wireless Laser Printer,Office Supplies,250.0,2,
+ORD00010,2025-02-03,CUST010,Centurion Ltd,San Jose,west,PROD010,Smart Office Whiteboard,Office Supplies,180.0,3,0.1
+ORD00011,2025-02-05,CUST011,Starlight Co,Austin,South,PROD001,Enterprise Laptop,Electronics,1200.0,1,0.0
+ORD00012,2025-02-08,CUST012,BlueSky Ventures,Jacksonville,South,PROD003,Ultra Tablet,Electronics,450.0,2,0.1
+ORD00013,2025-02-10,CUST013,Redwood Logistics,San Francisco,West,PROD004,Ergonomic Office Chair,Furniture,350.0,2,0.0
+ORD00013,2025-02-10,CUST013,Redwood Logistics,San Francisco,West,PROD004,Ergonomic Office Chair,Furniture,350.0,2,0.0
+ORD00014,02/12/2025,CUST014,,Indianapolis,Midwest,PROD005,Standing Desk,Furniture,650.0,1,0.05
+ORD00015,2025-02-15,CUST015,AeroTech Dynamics,Columbus,Midwest,PROD006,Noise-Cancelling Headphones,Accessories,200.0,1,0.0
+ORD00016,2025-02-18,CUST016,Velocity Commerce,Fort Worth,South,PROD007,Mechanical Keyboard,Accessories,120.0,3,0.1
+ORD00017,2025-02-20,CUST017,NextGen Media,Charlotte,East,PROD008,4K UltraHD Monitor,Electronics,400.0,2,0.15
+ORD00018,2025-02-22,CUST018,Silverline Group,Seattle,West,PROD009,Wireless Laser Printer,Office Supplies,250.0,1,0.0
+ORD00019,2025-02-25,CUST019,Beacon Services,Denver,West,PROD010,Smart Office Whiteboard,Office Supplies,180.0,2,0.0
+ORD00020,2025-02-28,CUST020,Zephyr Tech,El Paso,South,PROD001,Enterprise Laptop,electronics,1200.0,1,0.2
+ORD00021,2025-03-02,CUST001,TechCorp Solutions,New York,East,PROD005,Standing Desk,Furniture,650.0,3,0.1
+ORD00022,2025-03-05,CUST002,Apex Global,Los Angeles,West,PROD006,Noise-Cancelling Headphones,ACCESSORIES,200.0,2,0.0
+ORD00023,03/08/2025,CUST003,,Chicago,Midwest,PROD002,Pro Smartphone,Electronics,850.0,2,0.05
+ORD00024,2025-03-11,CUST004,Summit Enterprise,Houston,South,PROD007,Mechanical Keyboard,Accessories,120.0,4,
+ORD00025,2025-03-14,CUST005,Nova Industries,Phoenix,West,PROD008,4K UltraHD Monitor,Electronics,400.0,2,0.1
+ORD00026,2025-03-16,CUST006,Vanguard Labs,Philadelphia,East,PROD009,Wireless Laser Printer,Office Supplies,250.0,1,0.0
+ORD00027,2025-03-19,CUST007,Horizon Retail,San Antonio,South,PROD010,Smart Office Whiteboard,Office Supplies,180.0,2,0.0
+ORD00028,2025-03-22,CUST008,Infinity Partners,San Diego,West,PROD001,Enterprise Laptop,Electronics,1200.0,1,0.05
+ORD00029,2025-03-25,CUST009,Pinnacle Group,Dallas,South,PROD003,Ultra Tablet,Electronics,450.0,2,0.15
+ORD00030,2025-03-28,CUST010,Centurion Ltd,San Jose,West,PROD004,Ergonomic Office Chair,Furniture,350.0,1,0.0
+ORD00031,2025-04-01,CUST011,Starlight Co,Austin,South,PROD005,Standing Desk,Furniture,650.0,2,0.1
+ORD00032,2025-04-04,CUST012,BlueSky Ventures,Jacksonville,South,PROD006,Noise-Cancelling Headphones,Accessories,200.0,3,0.0
+ORD00033,2025-04-07,CUST013,Redwood Logistics,San Francisco,West,PROD007,Mechanical Keyboard,Accessories,120.0,2,
+ORD00034,04/10/2025,CUST014,Ironclad Security,Indianapolis,midwest,PROD008,4K UltraHD Monitor,Electronics,400.0,1,0.05
+ORD00035,2025-04-12,CUST015,AeroTech Dynamics,Columbus,Midwest,PROD009,Wireless Laser Printer,Office Supplies,250.0,3,0.1
+ORD00036,2025-04-15,CUST016,Velocity Commerce,Fort Worth,South,PROD010,Smart Office Whiteboard,Office Supplies,180.0,1,0.0
+ORD00037,2025-04-18,CUST017,NextGen Media,Charlotte,EAST,PROD001,Enterprise Laptop,Electronics,1200.0,2,0.15
+ORD00038,2025-04-20,CUST018,Silverline Group,Seattle,West,PROD002,Pro Smartphone,Electronics,850.0,1,0.0
+ORD00039,2025-04-23,CUST019,Beacon Services,Denver,West,PROD003,Ultra Tablet,Electronics,450.0,3,0.1
+ORD00040,2025-04-26,CUST020,Zephyr Tech,El Paso,South,PROD004,Ergonomic Office Chair,Furniture,350.0,2,0.0
+ORD00041,2025-05-02,CUST001,TechCorp Solutions,New York,East,PROD002,Pro Smartphone,Electronics,850.0,2,0.05
+ORD00042,2025-05-05,CUST002,Apex Global,Los Angeles,West,PROD005,Standing Desk,Furniture,650.0,1,0.0
+ORD00043,2025-05-08,CUST003,Quantum Systems,Chicago,Midwest,PROD006,Noise-Cancelling Headphones,Accessories,200.0,5,0.15
+ORD00044,2025-05-11,CUST004,Summit Enterprise,Houston,South,PROD008,4K UltraHD Monitor,Electronics,400.0,2,
+ORD00045,2025-05-14,CUST005,Nova Industries,Phoenix,West,PROD009,Wireless Laser Printer,Office Supplies,250.0,2,0.1
+ORD00046,05/17/2025,CUST006,,Philadelphia,East,PROD010,Smart Office Whiteboard,Office Supplies,180.0,4,0.05
+ORD00047,2025-05-20,CUST007,Horizon Retail,San Antonio,South,PROD001,Enterprise Laptop,Electronics,1200.0,1,0.2
+ORD00048,2025-05-23,CUST008,Infinity Partners,San Diego,West,PROD002,Pro Smartphone,Electronics,850.0,2,0.0
+ORD00049,2025-05-26,CUST009,Pinnacle Group,Dallas,South,PROD004,Ergonomic Office Chair,Furniture,350.0,3,0.1
+ORD00050,2025-05-29,CUST010,Centurion Ltd,San Jose,West,PROD006,Noise-Cancelling Headphones,Accessories,200.0,2,0.0
+ORD00051,2025-06-01,CUST011,Starlight Co,Austin,South,PROD003,Ultra Tablet,Electronics,450.0,4,0.1
+ORD00052,2025-06-04,CUST012,BlueSky Ventures,Jacksonville,South,PROD007,Mechanical Keyboard,Accessories,120.0,2,
+ORD00053,2025-06-07,CUST013,Redwood Logistics,San Francisco,West,PROD008,4K UltraHD Monitor,Electronics,400.0,1,0.0
+ORD00054,2025-06-10,CUST014,Ironclad Security,Indianapolis,Midwest,PROD001,Enterprise Laptop,Electronics,1200.0,1,0.05
+ORD00055,2025-06-12,CUST015,AeroTech Dynamics,Columbus,Midwest,PROD002,Pro Smartphone,electronics,850.0,3,0.15
+ORD00056,2025-06-15,CUST016,Velocity Commerce,Fort Worth,South,PROD005,Standing Desk,Furniture,650.0,2,0.0
+ORD00057,06/18/2025,CUST017,NextGen Media,Charlotte,East,PROD006,Noise-Cancelling Headphones,Accessories,200.0,3,0.1
+ORD00058,2025-06-21,CUST018,Silverline Group,Seattle,West,PROD007,Mechanical Keyboard,Accessories,120.0,5,0.05
+ORD00059,2025-06-24,CUST019,Beacon Services,Denver,West,PROD009,Wireless Laser Printer,Office Supplies,250.0,2,0.1
+ORD00060,2025-06-27,CUST020,Zephyr Tech,El Paso,South,PROD010,Smart Office Whiteboard,Office Supplies,180.0,1,0.0
+ORD00061,2025-07-02,CUST001,TechCorp Solutions,New York,East,PROD006,Noise-Cancelling Headphones,Accessories,200.0,2,0.1
+ORD00062,2025-07-05,CUST002,Apex Global,Los Angeles,West,PROD001,Enterprise Laptop,Electronics,1200.0,1,0.0
+ORD00063,2025-07-08,CUST003,Quantum Systems,Chicago,Midwest,PROD009,Wireless Laser Printer,Office Supplies,250.0,2,0.05
+ORD00064,2025-07-11,CUST004,Summit Enterprise,Houston,South,PROD003,Ultra Tablet,Electronics,450.0,3,
+ORD00065,2025-07-14,CUST005,Nova Industries,Phoenix,West,PROD004,Ergonomic Office Chair,Furniture,350.0,1,0.15
+ORD00066,2025-07-16,CUST006,Vanguard Labs,Philadelphia,East,PROD002,Pro Smartphone,Electronics,850.0,2,0.1
+ORD00067,2025-07-19,CUST007,Horizon Retail,San Antonio,South,PROD005,Standing Desk,Furniture,650.0,1,0.0
+ORD00068,07/22/2025,CUST008,,San Diego,West,PROD010,Smart Office Whiteboard,Office Supplies,180.0,3,0.05
+ORD00069,2025-07-25,CUST009,Pinnacle Group,Dallas,South,PROD008,4K UltraHD Monitor,Electronics,400.0,2,0.1
+ORD00070,2025-07-28,CUST010,Centurion Ltd,San Jose,West,PROD007,Mechanical Keyboard,Accessories,120.0,4,0.0
+ORD00071,2025-08-01,CUST011,Starlight Co,Austin,South,PROD002,Pro Smartphone,Electronics,850.0,1,0.15
+ORD00072,2025-08-04,CUST012,BlueSky Ventures,Jacksonville,South,PROD004,Ergonomic Office Chair,Furniture,350.0,2,0.0
+ORD00073,2025-08-07,CUST013,Redwood Logistics,San Francisco,West,PROD005,Standing Desk,Furniture,650.0,2,
+ORD00073,2025-08-07,CUST013,Redwood Logistics,San Francisco,West,PROD005,Standing Desk,Furniture,650.0,2,
+ORD00074,2025-08-10,CUST014,Ironclad Security,Indianapolis,Midwest,PROD006,Noise-Cancelling Headphones,Accessories,200.0,3,0.05
+ORD00075,2025-08-12,CUST015,AeroTech Dynamics,Columbus,Midwest,PROD007,Mechanical Keyboard,Accessories,120.0,4,0.1
+ORD00076,2025-08-15,CUST016,Velocity Commerce,Fort Worth,South,PROD008,4K UltraHD Monitor,Electronics,400.0,1,0.0
+ORD00077,08/18/2025,CUST017,,Charlotte,East,PROD009,Wireless Laser Printer,Office Supplies,250.0,2,0.15
+ORD00078,2025-08-21,CUST018,Silverline Group,Seattle,West,PROD010,Smart Office Whiteboard,Office Supplies,180.0,2,0.0
+ORD00079,2025-08-24,CUST019,Beacon Services,Denver,West,PROD001,Enterprise Laptop,Electronics,1200.0,1,0.1
+ORD00080,2025-08-27,CUST020,Zephyr Tech,El Paso,South,PROD003,Ultra Tablet,Electronics,450.0,2,0.0
+ORD00081,2025-09-02,CUST001,TechCorp Solutions,New York,East,PROD004,Ergonomic Office Chair,Furniture,350.0,2,0.05
+ORD00082,2025-09-05,CUST002,Apex Global,Los Angeles,West,PROD002,Pro Smartphone,Electronics,850.0,1,0.0
+ORD00083,2025-09-08,CUST003,Quantum Systems,Chicago,Midwest,PROD005,Standing Desk,Furniture,650.0,1,0.1
+ORD00084,2025-09-11,CUST004,Summit Enterprise,Houston,South,PROD006,Noise-Cancelling Headphones,Accessories,200.0,4,
+ORD00085,2025-09-14,CUST005,Nova Industries,Phoenix,West,PROD007,Mechanical Keyboard,Accessories,120.0,3,0.15
+ORD00086,2025-09-16,CUST006,Vanguard Labs,Philadelphia,East,PROD008,4K UltraHD Monitor,Electronics,400.0,2,0.0
+ORD00087,09/19/2025,CUST007,,San Antonio,South,PROD009,Wireless Laser Printer,Office Supplies,250.0,1,0.05
+ORD00088,2025-09-22,CUST008,Infinity Partners,San Diego,West,PROD010,Smart Office Whiteboard,Office Supplies,180.0,3,0.1
+ORD00089,2025-09-25,CUST009,Pinnacle Group,Dallas,South,PROD001,Enterprise Laptop,Electronics,1200.0,1,0.2
+ORD00090,2025-09-28,CUST010,Centurion Ltd,San Jose,West,PROD003,Ultra Tablet,electronics,450.0,2,0.0
+ORD00091,2025-10-02,CUST011,Starlight Co,Austin,South,PROD008,4K UltraHD Monitor,Electronics,400.0,3,0.15
+ORD00092,2025-10-05,CUST012,BlueSky Ventures,Jacksonville,South,PROD009,Wireless Laser Printer,Office Supplies,250.0,1,0.0
+ORD00093,2025-10-08,CUST013,Redwood Logistics,San Francisco,West,PROD010,Smart Office Whiteboard,Office Supplies,180.0,2,0.1
+ORD00094,2025-10-11,CUST014,Ironclad Security,Indianapolis,Midwest,PROD002,Pro Smartphone,Electronics,850.0,2,
+ORD00095,2025-10-14,CUST015,AeroTech Dynamics,Columbus,Midwest,PROD003,Ultra Tablet,Electronics,450.0,1,0.05
+ORD00096,10/17/2025,CUST016,,Fort Worth,South,PROD004,Ergonomic Office Chair,Furniture,350.0,3,0.1
+ORD00097,2025-10-20,CUST017,NextGen Media,Charlotte,East,PROD005,Standing Desk,Furniture,650.0,2,0.0
+ORD00098,2025-10-23,CUST018,Silverline Group,Seattle,West,PROD006,Noise-Cancelling Headphones,Accessories,200.0,5,0.2
+ORD00099,2025-10-26,CUST019,Beacon Services,Denver,West,PROD007,Mechanical Keyboard,Accessories,120.0,2,0.0
+ORD00100,2025-10-29,CUST020,Zephyr Tech,El Paso,South,PROD008,4K UltraHD Monitor,Electronics,400.0,1,0.1
+ORD00101,2025-11-02,CUST001,TechCorp Solutions,New York,East,PROD009,Wireless Laser Printer,Office Supplies,250.0,2,0.05
+ORD00102,2025-11-05,CUST002,Apex Global,Los Angeles,West,PROD010,Smart Office Whiteboard,Office Supplies,180.0,1,0.0
+ORD00103,2025-11-08,CUST003,Quantum Systems,Chicago,Midwest,PROD001,Enterprise Laptop,Electronics,1200.0,1,0.1
+ORD00104,2025-11-11,CUST004,Summit Enterprise,Houston,South,PROD003,Ultra Tablet,Electronics,450.0,2,
+ORD00105,2025-11-14,CUST005,Nova Industries,Phoenix,West,PROD004,Ergonomic Office Chair,Furniture,350.0,2,0.15
+ORD00106,11/17/2025,CUST006,,Philadelphia,East,PROD005,Standing Desk,Furniture,650.0,1,0.0
+ORD00107,2025-11-20,CUST007,Horizon Retail,San Antonio,South,PROD006,Noise-Cancelling Headphones,Accessories,200.0,4,0.1
+ORD00108,2025-11-23,CUST008,Infinity Partners,San Diego,West,PROD007,Mechanical Keyboard,Accessories,120.0,3,0.05
+ORD00109,2025-11-26,CUST009,Pinnacle Group,Dallas,South,PROD002,Pro Smartphone,Electronics,850.0,2,0.15
+ORD00110,2025-11-29,CUST010,Centurion Ltd,San Jose,West,PROD008,4K UltraHD Monitor,Electronics,400.0,1,0.0
+ORD00111,2025-12-02,CUST011,Starlight Co,Austin,South,PROD001,Enterprise Laptop,Electronics,1200.0,2,0.2
+ORD00112,2025-12-05,CUST012,BlueSky Ventures,Jacksonville,South,PROD002,Pro Smartphone,Electronics,850.0,1,0.0
+ORD00113,2025-12-08,CUST013,Redwood Logistics,San Francisco,West,PROD003,Ultra Tablet,Electronics,450.0,3,0.1
+ORD00114,2025-12-11,CUST014,Ironclad Security,Indianapolis,Midwest,PROD004,Ergonomic Office Chair,Furniture,350.0,2,
+ORD00115,12/14/2025,CUST015,,Columbus,Midwest,PROD005,Standing Desk,Furniture,650.0,2,0.05
+ORD00116,2025-12-17,CUST016,Velocity Commerce,Fort Worth,South,PROD006,Noise-Cancelling Headphones,Accessories,200.0,3,0.1
+ORD00117,2025-12-20,CUST017,NextGen Media,Charlotte,East,PROD007,Mechanical Keyboard,Accessories,120.0,4,0.0
+ORD00118,2025-12-23,CUST018,Silverline Group,Seattle,West,PROD008,4K UltraHD Monitor,Electronics,400.0,2,0.15
+ORD00119,2025-12-26,CUST019,Beacon Services,Denver,West,PROD009,Wireless Laser Printer,Office Supplies,250.0,1,0.0
+ORD00120,2025-12-29,CUST020,Zephyr Tech,El Paso,South,PROD010,Smart Office Whiteboard,Office Supplies,180.0,2,0.1

@@ -1,0 +1,48 @@
+{
+    "kpis": {
+        "total_revenue": 98245.50,
+        "total_orders": 118,
+        "avg_order_value": 832.59,
+        "total_items_sold": 257
+    },
+    "top_products": [
+        { "product_name": "Enterprise Laptop", "category": "Electronics", "quantity_sold": 16, "revenue": 17820.00 },
+        { "product_name": "Pro Smartphone", "category": "Electronics", "quantity_sold": 21, "revenue": 16447.50 },
+        { "product_name": "Standing Desk", "category": "Furniture", "quantity_sold": 20, "revenue": 12187.50 },
+        { "product_name": "Ultra Tablet", "category": "Electronics", "quantity_sold": 28, "revenue": 11430.00 },
+        { "product_name": "Ergonomic Office Chair", "category": "Furniture", "quantity_sold": 24, "revenue": 7735.00 }
+    ],
+    "top_customers": [
+        { "customer_name": "Apex Global", "city": "Los Angeles", "region": "West", "orders_count": 6, "revenue": 5250.00 },
+        { "customer_name": "Quantum Systems", "city": "Chicago", "region": "Midwest", "orders_count": 6, "revenue": 6160.00 },
+        { "customer_name": "TechCorp Solutions", "city": "New York", "region": "East", "orders_count": 6, "revenue": 7675.00 },
+        { "customer_name": "AeroTech Dynamics", "city": "Columbus", "region": "Midwest", "orders_count": 6, "revenue": 4234.50 },
+        { "customer_name": "Velocity Commerce", "city": "Fort Worth", "region": "South", "orders_count": 6, "revenue": 3289.00 }
+    ],
+    "regional_sales": [
+        { "region": "East", "revenue": 24395.00, "quantity_sold": 62 },
+        { "region": "West", "revenue": 31215.50, "quantity_sold": 81 },
+        { "region": "Midwest", "revenue": 18274.50, "quantity_sold": 49 },
+        { "region": "South", "revenue": 24360.50, "quantity_sold": 65 }
+    ],
+    "category_sales": [
+        { "category": "Electronics", "revenue": 49877.50, "quantity_sold": 79 },
+        { "category": "Furniture", "revenue": 19922.50, "quantity_sold": 44 },
+        { "category": "Accessories", "revenue": 12384.00, "quantity_sold": 67 },
+        { "category": "Office Supplies", "revenue": 16061.50, "quantity_sold": 67 }
+    ],
+    "monthly_sales": [
+        { "month": "Jan", "revenue": 8030.00, "orders_count": 8 },
+        { "month": "Feb", "revenue": 5997.50, "orders_count": 11 },
+        { "month": "Mar", "revenue": 7130.00, "orders_count": 10 },
+        { "month": "Apr", "revenue": 9235.00, "orders_count": 10 },
+        { "month": "May", "revenue": 10839.00, "orders_count": 10 },
+        { "month": "Jun", "revenue": 8737.50, "orders_count": 10 },
+        { "month": "Jul", "revenue": 8940.50, "orders_count": 10 },
+        { "month": "Aug", "revenue": 7474.50, "orders_count": 10 },
+        { "month": "Sep", "revenue": 7244.50, "orders_count": 10 },
+        { "month": "Oct", "revenue": 8802.50, "orders_count": 10 },
+        { "month": "Nov", "revenue": 8122.00, "orders_count": 10 },
+        { "month": "Dec", "revenue": 9892.50, "orders_count": 10 }
+    ]
+}
