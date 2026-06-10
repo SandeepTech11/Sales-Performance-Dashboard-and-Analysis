@@ -2,6 +2,9 @@
 
 An end-to-end sales intelligence and data engineering portfolio project built completely in **100% Python**. The project ingests raw transactional data (Excel/CSV), sanitizes it via a Python ETL pipeline, loads it into an in-memory SQL database, executes analytical SQL audits, and presents interactive visual reports using **Streamlit** and **Plotly** (no HTML, CSS, or JavaScript required).
 
+## 📊 Interactive Analytics Dashboard
+![Sales Performance Dashboard](assets/sales_dashboard.png)
+
 ---
 
 ## 🌟 Key Features
